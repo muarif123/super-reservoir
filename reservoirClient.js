@@ -8,6 +8,6 @@ const Client = createClient({
     default: true,
     apiKey: 'e9f86efe-e89c-59c0-acdd-77d5ef394be8',
   }],
-  source: 'YOUR.SOURCE'
+  source: 'super-reservoir'
 });
 module.exports = Client
